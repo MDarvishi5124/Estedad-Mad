@@ -2,9 +2,9 @@
 
 
 ## ۱.۰
-۵ تیر ۱۴۰۳
+۹ تیر ۱۴۰۳
 
 استعداد مَد منتشر شد.
 
 
-برای مشاهده تاریخچه فونت استعداد مَد به [این صفحه](https://github.com/MDarvishi5124/Sorena/CHANGELOG.md) مراجعه نمایید.
+برای مشاهده تاریخچه فونت استعداد مَد به [این صفحه](https://github.com/MDarvishi5124/Estedad-Mad/CHANGELOG.md) مراجعه نمایید.
